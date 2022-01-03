@@ -3,7 +3,9 @@
 Django framework guides and projects
 
 ## Installation
-###mac
+### [windows/linux](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
+
+### [mac](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment)
 django framework needs to be installed in a virtual environment
 for that:
 1. install virtual environment
